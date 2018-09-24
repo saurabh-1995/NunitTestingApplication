@@ -1,0 +1,4 @@
+C:\Users\SAURABH\Desktop\dotNET\UnitTestApplication\UnitTesting.Test\obj\Debug\netcoreapp2.1\UnitTesting.Test.csprojAssemblyReference.cache
+C:\Users\SAURABH\Desktop\dotNET\UnitTestApplication\UnitTesting.Test\obj\Debug\netcoreapp2.1\UnitTesting.Test.csproj.CoreCompileInputs.cache
+C:\Users\SAURABH\Desktop\dotNET\UnitTestApplication\UnitTesting.Test\obj\Debug\netcoreapp2.1\UnitTesting.Test.AssemblyInfoInputs.cache
+C:\Users\SAURABH\Desktop\dotNET\UnitTestApplication\UnitTesting.Test\obj\Debug\netcoreapp2.1\UnitTesting.Test.AssemblyInfo.cs

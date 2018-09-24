@@ -6946,11 +6946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SAURABH\\source\\repos\\UnitTestApplication\\UnitTesting.Test\\UnitTesting.Test.csproj",
+      "projectUniqueName": "C:\\Users\\SAURABH\\Desktop\\dotNET\\UnitTestApplication\\UnitTesting.Test\\UnitTesting.Test.csproj",
       "projectName": "UnitTesting.Test",
-      "projectPath": "C:\\Users\\SAURABH\\source\\repos\\UnitTestApplication\\UnitTesting.Test\\UnitTesting.Test.csproj",
+      "projectPath": "C:\\Users\\SAURABH\\Desktop\\dotNET\\UnitTestApplication\\UnitTesting.Test\\UnitTesting.Test.csproj",
       "packagesPath": "C:\\Users\\SAURABH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SAURABH\\source\\repos\\UnitTestApplication\\UnitTesting.Test\\obj\\",
+      "outputPath": "C:\\Users\\SAURABH\\Desktop\\dotNET\\UnitTestApplication\\UnitTesting.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6969,8 +6969,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\SAURABH\\source\\repos\\UnitTestApplication\\UnitTestApplication\\UnitTestApplication.csproj": {
-              "projectPath": "C:\\Users\\SAURABH\\source\\repos\\UnitTestApplication\\UnitTestApplication\\UnitTestApplication.csproj"
+            "C:\\Users\\SAURABH\\Desktop\\dotNET\\UnitTestApplication\\UnitTestApplication\\UnitTestApplication.csproj": {
+              "projectPath": "C:\\Users\\SAURABH\\Desktop\\dotNET\\UnitTestApplication\\UnitTestApplication\\UnitTestApplication.csproj"
             }
           }
         }

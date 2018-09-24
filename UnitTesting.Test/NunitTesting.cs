@@ -1,4 +1,8 @@
-﻿using System;
+﻿using NUnit.Framework;
+using System;
+using System.Collections.Generic;
+using UnitTestApplication.Controllers;
+using UnitTestApplication.Models;
 
 namespace UnitTesting.Test
 {
@@ -16,29 +20,29 @@ namespace UnitTesting.Test
             int ProductTotalPrice = 0;
             List<CustomerDetailsModel> productList = new List<CustomerDetailsModel>
             {
-                 new ProductList
+                 new CustomerDetailsModel
                 {
-                   ProductName="Biscuits",
-                   ProductPrice=600
+                   ProductName="Mango",
+                   ProductPrice=70
                 },
-               new ProductList
+               new CustomerDetailsModel
                {
-                   ProductName="Milk",
-                   ProductPrice=50
+                   ProductName="Baskin Robbins",
+                   ProductPrice=95
                },
-               new ProductList
+               new CustomerDetailsModel
                {
-                   ProductName="Cheese",
-                   ProductPrice=40
+                   ProductName="Cadbury Fingers",
+                   ProductPrice=80
                },
-               new ProductList
+               new CustomerDetailsModel
                {
-                   ProductName="DairyMilk",
+                   ProductName="Horlicks",
                    ProductPrice=120
                },
-               new ProductList
+               new CustomerDetailsModel
                {
-                   ProductName="Mouse",
+                   ProductName="KitKat",
                    ProductPrice=500
                },
             };

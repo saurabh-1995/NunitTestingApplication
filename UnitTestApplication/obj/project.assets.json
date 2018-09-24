@@ -12874,11 +12874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SAURABH\\source\\repos\\UnitTestApplication\\UnitTestApplication\\UnitTestApplication.csproj",
+      "projectUniqueName": "C:\\Users\\SAURABH\\Desktop\\dotNET\\UnitTestApplication\\UnitTestApplication\\UnitTestApplication.csproj",
       "projectName": "UnitTestApplication",
-      "projectPath": "C:\\Users\\SAURABH\\source\\repos\\UnitTestApplication\\UnitTestApplication\\UnitTestApplication.csproj",
+      "projectPath": "C:\\Users\\SAURABH\\Desktop\\dotNET\\UnitTestApplication\\UnitTestApplication\\UnitTestApplication.csproj",
       "packagesPath": "C:\\Users\\SAURABH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SAURABH\\source\\repos\\UnitTestApplication\\UnitTestApplication\\obj\\",
+      "outputPath": "C:\\Users\\SAURABH\\Desktop\\dotNET\\UnitTestApplication\\UnitTestApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
