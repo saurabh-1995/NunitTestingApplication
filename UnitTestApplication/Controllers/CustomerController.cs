@@ -7,17 +7,17 @@ namespace UnitTestApplication.Controllers
 {
     public class CustomerController : Controller
     {
-        
-        public static List<CustomerDetailsModel> customerDetails = Customer.GetCustomerDetails();
+
+        public static List<CustomerDetailsModel> customerDetails = new List<CustomerDetailsModel>();
         public IActionResult Index()
         {
 
 
             return View(Customer.GetCustomerDetails());
         }
-        
 
-        public IActionResult AddProduct(string productName,int productPrice)
+
+        public IActionResult AddProduct(string productName, int productPrice)
         {
             customerDetails.Add(new CustomerDetailsModel
             {
